@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="37507" started-at="2019-04-25T10:00:47Z" finished-at="2019-04-25T10:01:25Z">
+  <suite name="Suite" duration-ms="7940" started-at="2019-05-19T04:29:20Z" finished-at="2019-05-19T04:29:28Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="37507" started-at="2019-04-25T10:00:47Z" finished-at="2019-04-25T10:01:25Z">
+    <test name="Test" duration-ms="7940" started-at="2019-05-19T04:29:20Z" finished-at="2019-05-19T04:29:28Z">
       <class name="testcases.testCase_1">
-        <test-method status="PASS" signature="rightClickConsecept()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept" duration-ms="37485" started-at="2019-04-25T10:00:47Z" finished-at="2019-04-25T10:01:25Z">
+        <test-method status="PASS" signature="rightClickConsecept()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept" duration-ms="7892" started-at="2019-05-19T04:29:20Z" finished-at="2019-05-19T04:29:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rightClickConsecept -->

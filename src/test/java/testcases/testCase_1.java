@@ -20,7 +20,7 @@ public class testCase_1
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 		driver.get("http://demo.guru99.com/test/simple_context_menu.html");
-		System.out.println(driver.getTitle());
+		System.out.println("Title of entered Site is "+driver.getTitle());
 		
 		// test
 		
