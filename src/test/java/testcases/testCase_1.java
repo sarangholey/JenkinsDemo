@@ -26,4 +26,31 @@ public class testCase_1
 		
 	}
 	
+	@Test
+	public void rightClickConsecept1() throws InterruptedException
+	{
+		System.setProperty("webdriver.chrome.driver","chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		
+		driver.get("https://www.google.co.in");
+		System.out.println("Title of entered Site is "+driver.getTitle());
+		
+		driver.findElement(By.name("q")).sendKeys("Test");
+		
+	}
+	
+	@Test
+	public void rightClickConsecept2() throws InterruptedException
+	{
+		System.setProperty("webdriver.chrome.driver","chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		
+		driver.get("https://www.google.co.in");
+		System.out.println("Title of entered Site is "+driver.getTitle());
+		
+		driver.findElement(By.name("q")).sendKeys("Selenium");
+		
+	}
 }
