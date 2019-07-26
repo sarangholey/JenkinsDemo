@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="7940" started-at="2019-05-19T04:29:20Z" finished-at="2019-05-19T04:29:28Z">
+  <suite name="Suite" duration-ms="14858" started-at="2019-07-22T13:51:10Z" finished-at="2019-07-22T13:51:25Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7940" started-at="2019-05-19T04:29:20Z" finished-at="2019-05-19T04:29:28Z">
+    <test name="Test" duration-ms="14858" started-at="2019-07-22T13:51:10Z" finished-at="2019-07-22T13:51:25Z">
       <class name="testcases.testCase_1">
-        <test-method status="PASS" signature="rightClickConsecept()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept" duration-ms="7892" started-at="2019-05-19T04:29:20Z" finished-at="2019-05-19T04:29:28Z">
+        <test-method status="PASS" signature="rightClickConsecept()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept" duration-ms="7676" started-at="2019-07-22T13:51:10Z" finished-at="2019-07-22T13:51:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rightClickConsecept -->
+        <test-method status="PASS" signature="rightClickConsecept1()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept1" duration-ms="3473" started-at="2019-07-22T13:51:18Z" finished-at="2019-07-22T13:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightClickConsecept1 -->
+        <test-method status="PASS" signature="rightClickConsecept2()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept2" duration-ms="3686" started-at="2019-07-22T13:51:21Z" finished-at="2019-07-22T13:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rightClickConsecept2 -->
       </class> <!-- testcases.testCase_1 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
