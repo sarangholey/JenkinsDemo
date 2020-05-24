@@ -20,6 +20,7 @@
 	<build>
 		<plugins>
 
+
 			<!-- [[1.]] Plugin to Execute all the test under test folder of Maven 
 				TestNG driver file can also be configured for help: mvn surefire:help -->
 			<plugin>
