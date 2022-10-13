@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="27485" started-at="2020-05-10T14:58:16Z" finished-at="2020-05-10T14:58:44Z">
+  <suite name="Suite" duration-ms="11805" started-at="2022-10-13T04:23:52Z" finished-at="2022-10-13T04:24:04Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="27485" started-at="2020-05-10T14:58:16Z" finished-at="2020-05-10T14:58:44Z">
+    <test name="Test" duration-ms="11805" started-at="2022-10-13T04:23:52Z" finished-at="2022-10-13T04:24:04Z">
       <class name="testcases.testCase_1">
-        <test-method status="PASS" signature="rightClickConsecept()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept" duration-ms="11202" started-at="2020-05-10T14:58:16Z" finished-at="2020-05-10T14:58:27Z">
+        <test-method status="PASS" signature="rightClickConsecept()[pri:1, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept" duration-ms="5072" started-at="2022-10-13T04:23:52Z" finished-at="2022-10-13T04:23:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rightClickConsecept -->
-        <test-method status="PASS" signature="rightClickConsecept1()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept1" duration-ms="8313" started-at="2020-05-10T14:58:27Z" finished-at="2020-05-10T14:58:36Z">
+        <test-method status="PASS" signature="rightClickConsecept1()[pri:2, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept1" duration-ms="3005" started-at="2022-10-13T04:23:57Z" finished-at="2022-10-13T04:24:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rightClickConsecept1 -->
-        <test-method status="PASS" signature="rightClickConsecept2()[pri:0, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept2" duration-ms="7944" started-at="2020-05-10T14:58:36Z" finished-at="2020-05-10T14:58:44Z">
+        <test-method status="PASS" signature="rightClickConsecept2()[pri:3, instance:testcases.testCase_1@43a25848]" name="rightClickConsecept2" duration-ms="3707" started-at="2022-10-13T04:24:00Z" finished-at="2022-10-13T04:24:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rightClickConsecept2 -->
